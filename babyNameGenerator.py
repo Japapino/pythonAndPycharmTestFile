@@ -18,9 +18,13 @@ def generator():
 
     return (name)
 
-print(generator())
+print(generator()) #creates a 'name' from randomly generated letters
 
-#asks the user for some input
+
+
+
+
+
 
 
 
